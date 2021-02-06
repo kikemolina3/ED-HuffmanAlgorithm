@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1557682406 source:d:\2urv\huffman\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	"tree.h"
+
+1557681839 source:d:\2urv\huffman\tree.c
+	"tree.h"
+	<stdlib.h>
+
+1557681664 d:\2urv\huffman\tree.h
+	<stdlib.h>
+
+1556442157 source:d:\2urv\huffman\cua.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"cua.h"
+
+1556442449 d:\2urv\huffman\cua.h
+	<stdbool.h>
+
+1556442173 source:d:\2urv\huffman\llista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"llista.h"
+
+1556442979 d:\2urv\huffman\llista.h
+	<stdlib.h>
+	"arbre.h"
+
+1556442424 source:d:\2urv\huffman\arbre.c
+	"arbre.h"
+	<stdlib.h>
+
+1556443102 d:\2urv\huffman\arbre.h
+	<stdlib.h>
+
+1556443464 d:\2urv\huffman\tail.h
+	<stdbool.h>
+	"tree.h"
+
+1556443435 source:d:\2urv\huffman\tail.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"tail.h"
+	"tree.h"
+
+1556482144 source:d:\2urv\huffman\pila.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	"pila.h"
+	"tree.h"
+
+1556482163 d:\2urv\huffman\pila.h
+	<stdbool.h>
+	<stdlib.h>
+	"tree.h"
+
